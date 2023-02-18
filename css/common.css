@@ -6,3 +6,8 @@
 font-family: 'Azeret Mono', monospace;
 font-family: 'Inter', sans-serif;
  */
+
+ .container{
+   width: 1328px;
+   margin: 0 auto;
+ }
